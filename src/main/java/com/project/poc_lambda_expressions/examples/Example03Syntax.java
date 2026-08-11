@@ -44,6 +44,7 @@ public class Example03Syntax {
         System.out.println(sum.apply(10, 20));
     }
 
+    // Tipos Explicitos
     private static void example04ExplicitTypes() {
 
         BiFunction<Integer, Integer, Integer> sum = (Integer a, Integer b) -> a + b;
