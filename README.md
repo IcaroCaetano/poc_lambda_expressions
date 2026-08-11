@@ -50,3 +50,21 @@ poc-java8-lambda
 └── LambdaApplication.java
 
 ````
+
+### Example Class Anonymous
+
+#### Output
+
+````terminaloutput
+=== Before Sorting ===
+Person{name='Maria', age=34}
+Person{name='Jo�o', age=21}
+Person{name='Carlos', age=42}
+Person{name='Ana', age=27}
+
+=== After Sorting (Anonymous Class) ===
+Person{name='Jo�o', age=21}
+Person{name='Ana', age=27}
+Person{name='Maria', age=34}
+Person{name='Carlos', age=42}
+````
