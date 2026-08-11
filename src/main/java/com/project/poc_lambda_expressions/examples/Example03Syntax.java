@@ -39,8 +39,7 @@ public class Example03Syntax {
 
     private static void example03MultipleParameters() {
 
-        BiFunction<Integer, Integer, Integer> sum =
-                (a, b) -> a + b;
+        BiFunction<Integer, Integer, Integer> sum = (a, b) -> a + b;
 
         System.out.println(sum.apply(10, 20));
     }
