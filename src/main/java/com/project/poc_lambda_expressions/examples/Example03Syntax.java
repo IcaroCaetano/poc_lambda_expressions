@@ -59,6 +59,7 @@ public class Example03Syntax {
         System.out.println(doubleValue.apply(10));
     }
 
+    //  Lambda utilizando bloco
     private static void example06BlockBody() {
 
         Function<Integer, Integer> doubleValue =
