@@ -70,3 +70,5 @@ Person{name='Carlos', age=42}
 ````
 
 ### Example First Lambda
+
+#### Output
