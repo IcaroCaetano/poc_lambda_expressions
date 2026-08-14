@@ -19,5 +19,14 @@ public class Example04Calculator {
         System.out.println("Subtract: " + subtract.calculate(10, 5));
         System.out.println("Multiply: " + multiply.calculate(10, 5));
         System.out.println("Divide: " + divide.calculate(10, 5));
+
+        /*
+        Output:
+            Sum: 15
+            Subtract: 5
+            Multiply: 50
+            Divide: 2
+         */
+
     }
 }
