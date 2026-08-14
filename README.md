@@ -72,3 +72,17 @@ Person{name='Carlos', age=42}
 ### Example First Lambda
 
 #### Output
+
+````terminaloutput
+// Before Sorting ===
+Person{name='Maria', age=34}
+Person{name='Jo�o', age=21}
+Person{name='Carlos', age=42}
+Person{name='Ana', age=27}
+
+/// After Sorting (Lambda) ===
+Person{name='Jo�o', age=21}
+Person{name='Ana', age=27}
+Person{name='Maria', age=34}
+Person{name='Carlos', age=42}
+````
