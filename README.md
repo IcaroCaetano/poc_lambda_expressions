@@ -68,3 +68,7 @@ Person{name='Ana', age=27}
 Person{name='Maria', age=34}
 Person{name='Carlos', age=42}
 ````
+
+### Example First Lambda
+
+#### Output
