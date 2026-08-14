@@ -57,4 +57,12 @@ public class Example08BuiltInInterfaces {
 
         System.out.println("Person: " + person);
     }
+
+    /**
+     *
+     *Is adult: true
+     * Name: Maria
+     * Person{name='Carlos', age=42}
+     * Person: Person{name='Ana', age=27}
+     */
 }
