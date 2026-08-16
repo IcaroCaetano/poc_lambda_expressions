@@ -69,7 +69,7 @@ Person{name='Maria', age=34}
 Person{name='Carlos', age=42}
 ````
 
-### 
+### Example05Runnable
 
 ### Example First Lambda
 
